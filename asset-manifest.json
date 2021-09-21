@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/coctails/static/css/main.5dbc33be.chunk.css",
+    "main.js": "/coctails/static/js/main.b146d1b0.chunk.js",
+    "main.js.map": "/coctails/static/js/main.b146d1b0.chunk.js.map",
+    "runtime-main.js": "/coctails/static/js/runtime-main.12a4376c.js",
+    "runtime-main.js.map": "/coctails/static/js/runtime-main.12a4376c.js.map",
+    "static/js/2.cbcc4241.chunk.js": "/coctails/static/js/2.cbcc4241.chunk.js",
+    "static/js/2.cbcc4241.chunk.js.map": "/coctails/static/js/2.cbcc4241.chunk.js.map",
+    "static/js/3.39f352c3.chunk.js": "/coctails/static/js/3.39f352c3.chunk.js",
+    "static/js/3.39f352c3.chunk.js.map": "/coctails/static/js/3.39f352c3.chunk.js.map",
+    "index.html": "/coctails/index.html",
+    "static/css/main.5dbc33be.chunk.css.map": "/coctails/static/css/main.5dbc33be.chunk.css.map",
+    "static/js/2.cbcc4241.chunk.js.LICENSE.txt": "/coctails/static/js/2.cbcc4241.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12a4376c.js",
+    "static/js/2.cbcc4241.chunk.js",
+    "static/css/main.5dbc33be.chunk.css",
+    "static/js/main.b146d1b0.chunk.js"
+  ]
+}
